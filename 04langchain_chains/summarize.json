@@ -1,0 +1,19 @@
+{
+  "lc": 1,
+  "type": "constructor",
+  "id": [
+    "langchain",
+    "prompts",
+    "prompt",
+    "PromptTemplate"
+  ],
+  "kwargs": {
+    "input_variables": [
+      "detailed_report",
+      "topic"
+    ],
+    "template": "Create a short summary of below detailed report on **{topic}**:\n\n{detailed_report}",
+    "template_format": "f-string"
+  },
+  "name": "PromptTemplate"
+}

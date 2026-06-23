@@ -1,0 +1,17 @@
+{
+    "name": null,
+    "input_variables": [
+        "character",
+        "length",
+        "style"
+    ],
+    "optional_variables": [],
+    "output_parser": null,
+    "partial_variables": {},
+    "metadata": null,
+    "tags": null,
+    "template": "Tell me about {character} in a {length} and {style} way.",
+    "template_format": "f-string",
+    "validate_template": false,
+    "_type": "prompt"
+}
