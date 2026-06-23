@@ -25,3 +25,6 @@ python-dotenv
 scikit-learn
 numpy
 pandas
+
+# Web Application Framework
+streamlit
