@@ -7,5 +7,5 @@ def load_document(path):
     return docs[0]
 
 if __name__ == "__main__":
-    text_doc = load_document(".\\10.doc_load_split_store_retrieve\\docs\\a-testament-of-hope.pdf")
+    text_doc = load_document(".\\31.doc_load_unstructured\\docs\\a-testament-of-hope.pdf")
     print(type(text_doc.page_content[:200]))
