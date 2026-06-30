@@ -2,6 +2,12 @@
 langchain
 langchain-core
 
+# Document Loading
+langchain-unstructured
+unstructured
+unstructured[pdf]
+python-magic-bin
+
 # OpenAI Integration
 langchain-openai
 openai
@@ -17,6 +23,9 @@ google-generativeai
 langchain-huggingface
 transformers
 huggingface-hub
+
+# Vector Store
+chromadb
 
 # Environment Variable Management
 python-dotenv
