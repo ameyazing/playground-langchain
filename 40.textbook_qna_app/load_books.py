@@ -48,7 +48,7 @@ def load_docs_from_cache(cache_path):
 
 
 if __name__ == "__main__":
-    books = [{"name": "textbook_class08_biology.pdf"}]
+    books = [{"name": "textbook_class08_chemistry.pdf"}]
 
     scriptdir = os.path.dirname(os.path.abspath(__file__))
     cache_dir = os.path.join(scriptdir, "cache")
